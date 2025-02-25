@@ -1,0 +1,92 @@
+# Historical Periods
+Ancient Egypt
+Ancient Greece
+Ancient Rome
+Byzantine Era
+Middle Ages
+Medieval Period
+Renaissance
+Age of Enlightenment
+Baroque Period
+Rococo Period
+Neoclassical Period
+Romanticism Era
+Victorian Era
+Industrial Revolution
+Belle Époque
+Roaring Twenties
+Modernism
+Post-War Era
+Digital Age
+Post-Modern Era
+
+# Art Styles
+Abstract Expressionism
+Art Deco
+Art Nouveau
+Baroque
+Bauhaus
+Classicism
+Constructivism
+Cubism
+Dadaism
+Expressionism
+Fauvism
+Futurism
+Gothic
+Impressionism
+Mannerism
+Minimalism
+Neoclassicism
+Pop Art
+Post-Impressionism
+Realism
+Renaissance Art
+Rococo
+Romanticism
+Surrealism
+Symbolism
+
+# Architectural Styles
+Ancient Egyptian
+Ancient Greek
+Ancient Roman
+Art Deco
+Art Nouveau
+Baroque
+Beaux-Arts
+Blobitecture
+Brutalism
+Byzantine
+Classical
+Colonial
+Constructivist
+Deconstructivism
+Edwardian
+Expressionist
+Futurist
+Gothic
+Greek Revival
+High-Tech
+International Style
+Islamic
+Japanese Traditional
+Mayan
+Mesopotamian
+Minimalist
+Modern
+Neoclassical
+Neofuturistic
+Neogothic
+Organic
+Palladian
+Parametric
+Postmodern
+Prairie School
+Renaissance
+Rococo
+Romanesque
+Russian Revival
+Streamline Moderne
+Tudor
+Victorian

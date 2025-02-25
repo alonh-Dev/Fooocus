@@ -1,0 +1,79 @@
+Acacia
+Alder
+Apple
+Ash
+Aspen
+Baobab
+Balsa
+Banyan
+Beech
+Birch
+Black Walnut
+Blackwood
+Blue Gum
+Boxelder
+Buckeye
+Cedar
+Cherry
+Chestnut
+Cypress
+Cottonwood
+Dogwood
+Douglas Fir
+Ebony
+Elm
+Eucalyptus
+Fir
+Giant Sequoia
+Ginkgo
+Hawthorn
+Hazel
+Hemlock
+Hickory
+Holly
+Ironwood
+Jacaranda
+Japanese Maple
+Joshua Tree
+Juniper
+Kapok
+Larch
+Laurel
+Lemon
+Lime
+Linden
+Locust
+Magnolia
+Mahogany
+Mango
+Maple
+Mesquite
+Mountain Ash
+Mulberry
+Oak
+Olive
+Palm
+Palmetto
+Pawpaw
+Peach
+Pear
+Pecan
+Pine
+Plum
+Poplar
+Redwood
+Rosewood
+Rowan
+Sassafras
+Spruce
+Sumac
+Sycamore
+Tamarack
+Teak
+Tulip
+Walnut
+Weeping Willow
+White Pine
+Willow
+Yew
+Zelkova
