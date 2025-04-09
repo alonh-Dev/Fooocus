@@ -1,0 +1,45 @@
+Mountains
+Valley
+Canyon
+Plateau
+Mesa
+Butte
+Cliff
+Gorge
+Ravine
+Basin
+Ridge
+Peninsula
+Isthmus
+Fjord
+Glacier
+Volcano
+Geyser
+Hot spring
+Cave
+Cavern
+Sinkhole
+Arch
+Natural bridge
+Waterfall
+Delta
+Sand dune
+Desert
+Oasis
+Badlands
+Salt flat
+Crater
+Caldera
+Reef
+Atoll
+Island
+Archipelago
+Lagoon
+Estuary
+Karst formation
+Monolith
+Inselberg
+Moraine
+Drumlin
+Tundra
+Lava flow
