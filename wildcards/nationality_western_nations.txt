@@ -1,1 +1,22 @@
-wildcards/wildcards/
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Greece
+Iceland
+Ireland
+Italy
+Luxembourg
+Netherlands
+New Zealand
+Norway
+Portugal
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States
