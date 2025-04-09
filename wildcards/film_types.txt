@@ -1,0 +1,51 @@
+Kodachrome
+Ektachrome
+Polaroid
+Fujifilm
+Ilford
+Tri-X
+T-Max
+HP5
+Portra
+Velvia
+Provia
+Ektar
+Acros
+Delta
+FP4
+XP2
+Cinestill
+Lomography
+Black and white
+Sepia
+Infrared
+Redscale
+Cross-processed
+Push-processed
+Pull-processed
+Medium format
+Large format
+35mm
+120 film
+4x5 film
+8x10 film
+Slide film
+Negative film
+Color negative
+Color positive
+Monochrome
+Chromogenic
+Silver gelatin
+Cyanotype
+Daguerreotype
+Tintype
+Albumen print
+Ambrotype
+Collodion
+Gum bichromate
+Platinum print
+Palladium print
+Salt print
+Calotype
+Wet plate
+Dry plate
